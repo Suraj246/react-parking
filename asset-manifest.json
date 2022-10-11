@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-parking/static/css/main.d6b78c53.css",
+    "main.js": "/react-parking/static/js/main.d2dde747.js",
+    "static/js/787.f10d7416.chunk.js": "/react-parking/static/js/787.f10d7416.chunk.js",
+    "index.html": "/react-parking/index.html",
+    "main.d6b78c53.css.map": "/react-parking/static/css/main.d6b78c53.css.map",
+    "main.d2dde747.js.map": "/react-parking/static/js/main.d2dde747.js.map",
+    "787.f10d7416.chunk.js.map": "/react-parking/static/js/787.f10d7416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b78c53.css",
+    "static/js/main.d2dde747.js"
+  ]
+}
